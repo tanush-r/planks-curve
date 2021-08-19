@@ -8,7 +8,13 @@ Planck's law describes the energy density of electromagnetic radiation emitted b
 
 Every physical body spontaneously and continuously emits electromagnetic radiation and the energy density of a body, U, describes the energy per unit area, for particular radiation wavelengths. The relationship given by Planck's radiation law, given below, shows that with increasing temperature, the total radiated energy of a body increases and the peak of the emitted spectrum shifts to shorter wavelengths.[2] According to this, the energy density of a body for wavelngth lambda at absolute temperature T is given by
 
-![this formula](res/readme/img.png)
+![plancks formula](res/plancks_formula.png)
+
+## Graph
+
+This is the graph obtained after running the program.
+
+![plancks_curve](res/plancks_curve.png)
 
 ## Built With
 
